@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414025760704",
+    "project_id": "atelier-4-a-mourad-iir4g4",
+    "storage_bucket": "atelier-4-a-mourad-iir4g4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414025760704:android:9b370a1180574c8b66d225",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_a_mourad_iir5g4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AiMEpqZW9qd3O_Ysor9v6xO3dX1mBPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
