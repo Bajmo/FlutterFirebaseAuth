@@ -166,7 +166,7 @@ This is a Flutter project created for demonstrating Firebase Authentication usin
 
    - Add code to display the login form when the user is not connected.
 
-## Version Used
+## Versions Used
 
 **Firebase CLI:** v13.0.2
 
